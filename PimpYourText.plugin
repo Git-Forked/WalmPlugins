@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<Plugin>
+	<Information>
+		<Name>PimpYourText</Name>
+		<Author>Walm</Author>
+		<Version>0.5.3</Version>
+		<Description>Let's pimp our messages in Lotro with colors !</Description>
+		<Image>WalmPlugins/PimpYourText/logo.jpg</Image>
+	</Information>
+	<Package>WalmPlugins.PimpYourText.Main</Package>
+	<!--<Configuration Apartment="PimpYourText">
+	</Configuration>-->
+</Plugin>

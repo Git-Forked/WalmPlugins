@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PluginConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1061</Id>
+  <Name>Pimp Your Text</Name>
+  <Version>0.5.3 beta</Version>
+  <Author>Walm</Author>
+  <InfoUrl>http://www.lotrointerface.com/downloads/info1061</InfoUrl>
+  <DownloadUrl>http://www.lotrointerface.com/downloads/download1061</DownloadUrl>
+  <Descriptors>
+    <descriptor>WalmPlugins\PimpYourText.plugin</descriptor>
+  </Descriptors>
+  <Dependencies />
+</PluginConfig>
